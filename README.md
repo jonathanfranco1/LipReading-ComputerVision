@@ -1,6 +1,6 @@
 # Computer-Vision-Lip-Reading
 
-### Read the paper for my project [here](https://docs.google.com/document/d/1dWy2qpNbqVemGiTEd2h2NOs9cm9xLffQZb3gYPMWqDM/edit?usp=sharing)!
+### Read the paper for my project [here](https://docs.google.com/document/d/1dWy2qpNbqVemGiTEd2h2NOs9cm9xLffQZb3gYPMWqDM/edit?usp=sharing)! (Jonathan Franco, Avishkar Deshmane)
 
 ## Synopsys
 
