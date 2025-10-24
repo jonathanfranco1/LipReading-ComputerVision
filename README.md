@@ -1,6 +1,6 @@
 # Computer-Vision-Lip-Reading
 
-### Read the paper for my project [here](https://docs.google.com/document/d/1dWy2qpNbqVemGiTEd2h2NOs9cm9xLffQZb3gYPMWqDM/edit?usp=sharing)!
+### Read the paper for my project [here](https://docs.google.com/document/d/1QbC0W_Rekk0nN5XWm-KDsU6hFHrDd1xONWWdifgVCG8/edit?usp=sharing)!
 
 ## Synopsys
 
